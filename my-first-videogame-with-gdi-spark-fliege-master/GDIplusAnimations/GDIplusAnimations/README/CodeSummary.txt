@@ -1,0 +1,10 @@
+﻿This is a summary which contains all important fast nodes and code.
+
+For using this summary you must use the search modification "CTRL + F" and copy the hash code into the search field.
+Don't forget to change the search area to "Entire project folder" !
+
+The hash codes are symbold in the code with a >>SM0<< .
+			 
+--------------------------------------------------------------------------------------------------------------------
+0. Summary							>> SM0
+1. MainMenu run/open				>> SM1

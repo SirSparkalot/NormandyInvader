@@ -1,0 +1,21 @@
+﻿
+User Stories:
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+master >> Contains the full project in his completly working phase
+
+DetailModels >> Contains all details like better positioning of all "Actors" || Rectangles and improvement of the movement/IntersectWith code
+
+Movement >> This branch doesn't contain any valueable code
+
+PlayerDesign >> Contains Bitmaps for the Player "Actor" and improvement if his Positioning and also movement
+
+PlayerMovement >> Contains all the movement code for the Player, Enemy and Projectiles in this project
+
+PlayerReDesign >> Contains improvement of the Player, Protection and Projectile Bitmap, better movement and include the Form: frmOption
+
+schutz >> Contains the protection code / Bitmap and also some code improvement. Main function of this branch was a merge.
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+## Cologne, 19.12.2019 ##
